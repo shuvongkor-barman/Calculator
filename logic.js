@@ -1,5 +1,5 @@
 // Get value from the display
-let box = document.getElementById('display');
+var box = document.getElementById('display');
 
 
 
@@ -18,9 +18,9 @@ function answer(){
 }
 
 function backspace(){
-    let input = box.value;
-    let inputLength = input.length - 1;
-    let newInput = input.substring(0, inputLength);
+    var input = box.value;
+    var inputLength = input.length - 1;
+    var newInput = input.substring(0, inputLength);
     box.value = newInput;
 
 }
