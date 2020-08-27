@@ -7,3 +7,5 @@ See it here
 https://shuvongkor-barman.github.io/Calculator/
 -------------------
 Made by Shuvongkor Barman
+-------------------
+![](Screenshot/Simple_Calculator.jpg)
